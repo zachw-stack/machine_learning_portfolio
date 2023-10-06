@@ -8,3 +8,7 @@
 ## Sales
 
 1. Linear regression of sales to ads sold to predict future sales from ads sold.
+
+## Classification
+
+1. Spam Detection from e-mail data.
